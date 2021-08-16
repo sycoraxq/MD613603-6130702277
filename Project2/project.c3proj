@@ -5,35 +5,10 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-<<<<<<< HEAD
 	"usedAddons": [],
 	"uniqueId": "7n92dvi5kga",
-=======
-	"usedAddons": [
-		{
-			"type": "plugin",
-			"id": "TiledBg",
-			"name": "Tiled Background",
-			"author": "Scirra",
-			"version": "r251.2",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "Text",
-			"name": "Text",
-			"author": "Scirra",
-			"version": "r251.2",
-			"bundled": false
-		}
-	],
-	"uniqueId": "xheikte8i6e",
->>>>>>> f6cbe90ebe1943fb86bee0565627b17484067ede
 	"objectTypes": {
-		"items": [
-			"TiledBackground",
-			"Text"
-		],
+		"items": [],
 		"subfolders": []
 	},
 	"autosaveData": null,
